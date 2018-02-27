@@ -7,7 +7,7 @@ public class examen_rubinat {
 		printTwo()
 	}
 	public static void printOne() {
-		System.out.println("Hello World");
+		System.out.println("Hello World"); 
 	}
 	public static void printTwo();{
 		printOne();
